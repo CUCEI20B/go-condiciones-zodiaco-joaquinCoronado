@@ -6,8 +6,8 @@ func main() {
 	var dia int
 	var mes int
 
-	fmt.Scanf("%d", &dia)
-	fmt.Scanf("%d", &mes)
+	fmt.Scanln(&dia)
+	fmt.Scanln(&mes)
 
 	switch mes {
 	case 1:
